@@ -10,7 +10,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 
 /**
- * Created by amarendra on 12/01/18.
+ * Created by Wilson Wu on 2020/02/11.
  */
 @Mod.EventBusSubscriber
 public interface CommonProxy {

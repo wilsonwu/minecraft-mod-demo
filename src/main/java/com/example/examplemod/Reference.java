@@ -1,5 +1,8 @@
 package com.example.examplemod;
 
+/**
+ * Created by Wilson Wu on 2020/02/11.
+ */
 public class Reference
 {
     public static final String MODID = "sword";
@@ -9,6 +12,4 @@ public class Reference
 
     public static final String CLIENT_PROXY_CLASS = "com.example.examplemod.proxy.ClientProxy";
     public static final String SERVER_PROXY_CLASS = "com.example.examplemod.proxy.ServerProxy";
-
-
 }
