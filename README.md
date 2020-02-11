@@ -74,7 +74,6 @@ Now you can see the Minecraft 1.12.2 started:
 
 Then start a new single player game:
 ![Start new game](https://github.com/wilsonwu/minecraft-mod-demo/raw/master/screenshots/10-start-new-game.png)
-![Start new game](https://github.com/wilsonwu/minecraft-mod-demo/raw/master/screenshots/10-start-new-game.png)
 
 You can find your mod works:
 ![Get sword](https://github.com/wilsonwu/minecraft-mod-demo/raw/master/screenshots/11-get-your-mod-works.png)
